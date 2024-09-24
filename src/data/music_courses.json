@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "course_id": "MUS101",
+            "title": "Introduction to Music Theory",
+            "description": "Learn the basics of music theory, including notation, scales, and chords.",
+            "instructor": "Dr. Jane Smith",
+            "duration": "8 weeks",
+            "level": "Beginner",
+            "price": "$100",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "course_id": "MUS102",
+            "title": "Piano for Beginners",
+            "description": "An introductory course to playing the piano, covering basic techniques and simple pieces.",
+            "instructor": "Mr. John Doe",
+            "duration": "10 weeks",
+            "level": "Beginner",
+            "price": "$120",
+            "isFeatured": true,
+            "image": "/courses/piano.jpg"
+        },
+        {
+            "course_id": "MUS201",
+            "title": "Advanced Guitar Techniques",
+            "description": "A course for experienced guitarists to master advanced techniques and styles.",
+            "instructor": "Ms. Emily Davis",
+            "duration": "12 weeks",
+            "level": "Advanced",
+            "price": "$150",
+            "isFeatured": false,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "course_id": "MUS202",
+            "title": "Songwriting and Composition",
+            "description": "Learn how to write and compose your own music in various genres.",
+            "instructor": "Mr. Michael Brown",
+            "duration": "8 weeks",
+            "level": "Intermediate",
+            "price": "$130",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "course_id": "MUS301",
+            "title": "Jazz Improvisation",
+            "description": "Explore the art of jazz improvisation and develop your own improvisational skills.",
+            "instructor": "Dr. Lisa White",
+            "duration": "10 weeks",
+            "level": "Advanced",
+            "price": "$160",
+            "isFeatured": false,
+            "image": "/courses/guitar.jpg"
+        }
+    ]
+}
